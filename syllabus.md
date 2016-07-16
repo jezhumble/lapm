@@ -26,6 +26,10 @@ Background study:
 
 Further reading:
 
+* _How to Measure Anything_ by Douglas Hubbard
+* _The Principles of Product Development Flow_ by Don Reinertsen
+* _Waltzing with Bears_ by Tom DeMarco and Timothy Lister
+* _Lean Enterprise_ by Jez Humble, Joanne Molesky, and Barry O'Reilly
 * [Decision Tree Primer](http://www.public.asu.edu/~kirkwood/DAStuff/decisiontrees/) by Craig Kirkwood.
 
 ## Week 3. Getting to Know your Users
@@ -35,6 +39,13 @@ This class will introduce the idea of a scientific approach to product developme
 Background study:
 
 * [Won’t be Fooled Again](https://www.youtube.com/watch?v=a--xbF_WGyM) by Jeff Patton
+
+Further reading:
+
+* _Lean UX_ by Jeff Gothelf with Josh Seiden
+* [Usability.gov](http://usability.gov/)
+* _Badass: Making Users Awesome_ by Kathy Sierra
+* _Agile User Experience Design_ by Lindsay Ratcliffe and Marc McNeill
 
 ## Week 4 - Introduction to Agile Software Development
 
@@ -54,7 +65,14 @@ Background study:
 * [Agile Product Ownership in a Nutshell](http://blog.crisp.se/2012/10/25/henrikkniberg/agile-product-ownership-in-a-nutshell) by Henrik Kniberg
 * [User Story Mapping by Jeff Patton](http://jpattonassociates.com/the-new-backlog/) by Jeff Patton
 
-## Week 6 - Continuous Delivery & Hypothesis-Driven Development
+Further reading:
+
+* [Dear Customer: The Truth about IT Projects](http://www.agileconnection.com/article/dear-customer-truth-about-it-projects) by Allan Kelly
+* [Estimation is Evil](https://pragprog.com/magazines/2013-02/estimation-is-evil) by Ron Jeffries
+* _Waltzing with Bears_ by Tom DeMarco and Timothy Lister
+* _User Story Mapping_ by Jeff Patton
+
+## Week 6 - An Experimental Approach to Product Development
 
 This class will present hypothesis-driven development, the cutting-edge paradigm for evolving validated products. We’ll dive into how to frame hypotheses, design experiments, and use A/B testing to gather data to prove or disprove our ideas.
 
@@ -63,6 +81,13 @@ Background study:
 * [Platform Rant](https://plus.google.com/+RipRowan/posts/eVeouesvaVX) by Steve Yegge
 * [Early Amazon Shopping Cart](http://glinden.blogspot.com/2006/04/early-amazon-shopping-cart.html) by Greg Linden
 * [A/B Testing and Continuous Delivery](http://www.infoq.com/presentations/ab-testing-continuous-delivery) by Nellwyn Thomas
+
+Further reading:
+
+* [Resources on Set-Based Design](http://xp123.com/articles/resources-on-set-based-design/)
+* _Impact Mapping_ by Gojko Adzic
+* _Lean UX_ by Jeff Gothelf with Josh Seiden
+* _Lean Enterprise_ by Jez Humble, Joanne Molesky, and Barry O'Reilly
 
 ## Week 7 - Managing Teams
 
@@ -73,6 +98,16 @@ Background study:
 * [NUMMI 2015](http://www.thisamericanlife.org/radio-archives/episode/561/nummi-2015) by This American Life
 * [How to Change a Culture: Lessons from NUMMI](http://sloanreview.mit.edu/article/how-to-change-a-culture-lessons-from-nummi/) by John Shook
 * [The Power of an Agile Mindset](https://www.infoq.com/presentations/agile-mindset) by Linda Rising
+
+Further reading:
+
+* [The Talent Myth](http://gladwell.com/the-talent-myth/) by Malcolm Gladwell
+* _Mindset_ by Carol Dweck
+* _Drive_ by Daniel Pink
+* [Fourteen Points for Management](https://deming.org/theman/theories/fourteenpoints) by W. Edwards Deming
+* [One on Ones template](https://www.manager-tools.com/system/files/documents/docs/Manager-Tools_One_on_One_Basics.pdf) by Manager Tools
+* _Out of the Crisis_ by W. Edwards Deming
+* _Lean Enterprise_ by Jez Humble, Joanne Molesky, and Barry O'Reilly
 
 ## Week 8 - Case Study: Continuous Improvement
 
@@ -88,9 +123,22 @@ Guide questions for the case study:
 * What strategies could the HP LaserJet team have employed to get firmware off the critical path? Why did they choose the approach they did?
 * Imagine you were a product manager at HP working on products that used the LaserJet firmware during this rearchitecture. How would you have been impacted? What would you have to do differently? What would be keeping you awake at night?
 
+Further reading:
+
+* _A Practical Approach to Large-Scale Agile Development_ by Gruver et al
+* _Leading the Transformation_ by Gruver et al
+* _Toyota Kata_ by Mike Rother
+* [Toyota Kata Handbook](www-personal.umich.edu/~mrother/Homepage.html) by Mike Rother
+
 ## Week 9 - The Role of the Product Manager
 
 Our final class will cover what is expected of a product manager, including the skills, responsibilities and key activities product managers must perform.
 
+Background Study:
+
 * You Chose Product Marketing---Deal With It! [Part 1](https://www.youtube.com/watch?v=czYDshjmys4) | [Part 2](https://www.youtube.com/watch?v=pHeiRiRUkeo) by Sun Microsystems
 * Product Managers Are Working on the Wrong Things by Tom Grant
+
+Further reading:
+
+* _Inspired_ by Marty Cagan
