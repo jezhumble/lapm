@@ -1,0 +1,17 @@
+# Site settings
+title: Lean-Agile Product Management
+email: humble@berkeley.edu
+description: > # this means to ignore newlines until "baseurl:"
+  Website for Jez Humble's Lean-Agile Product Management class at UC Berkeley iSchool.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://lapm.continuousdelivery.com" # the base hostname & protocol for your site
+twitter_username: jezhumble
+github_username:  jezhumble
+encoding: utf-8
+highlighter: rouge
+incremental: true
+
+# Build settings
+markdown: kramdown
+kramdown:
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
