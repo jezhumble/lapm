@@ -11,6 +11,8 @@ LAPM is a one-semester course, taught in the form of 13 two-hour weekly classes,
 
 In our first class, we’ll discuss the various characteristics and types of products, paying particular attention to the product lifecycle. We’ll introduce the idea of a business model, and discuss the various risks that products might face in different parts of the product lifecycle. We’ll review a brief history of project and product management, and discuss the differences between the two.
 
+[Slides](http://www.slideshare.net/humblej/introduction-64091415)
+
 Background study:
 
 * [The History of Lean Software Development](http://www.informit.com/articles/article.aspx?p=664147) by Mary and Tom Poppendieck.
@@ -19,6 +21,8 @@ Background study:
 ## Week 2. Economic Frameworks for Portfolio and Product Management.
 
 This class presents the idea of using economic frameworks for portfolio and project management. We’ll begin with an overview of the three horizons model, and discuss the economic models that are suitable in each horizon. We’ll then discuss and experiment with economic tools that can be applied in each horizon, including the Value of Information, Monte Carlo and Cost of Delay.
+
+[Slides](http://www.slideshare.net/humblej/economic-frameworks)
 
 Background study:
 
@@ -35,6 +39,8 @@ Further reading:
 ## Week 3. Getting to Know your Users
 
 This class will introduce the idea of a scientific approach to product development. We’ll focus on how to make sure we build products customers love, starting with how to frame hypotheses and perform user research.
+
+[Slides](http://www.slideshare.net/humblej/user-research-64091404)
 
 Background study:
 
@@ -60,6 +66,8 @@ Background study:
 
 Despite rumours to the contrary, there are planning activities in the agile model. In this class we’ll discuss how to plan releases, and present story mapping and impact mapping as effective tools for design, ideation and planning.
 
+[Slides](http://www.slideshare.net/humblej/release-planning-64091364)
+
 Background study:
 
 * [Agile Product Ownership in a Nutshell](http://blog.crisp.se/2012/10/25/henrikkniberg/agile-product-ownership-in-a-nutshell) by Henrik Kniberg
@@ -75,6 +83,8 @@ Further reading:
 ## Week 6 - An Experimental Approach to Product Development
 
 This class will present hypothesis-driven development, the cutting-edge paradigm for evolving validated products. We’ll dive into how to frame hypotheses, design experiments, and use A/B testing to gather data to prove or disprove our ideas.
+
+[Slides](http://www.slideshare.net/humblej/experimental-product-development)
 
 Background study:
 
@@ -92,6 +102,8 @@ Further reading:
 ## Week 7 - Managing Teams
 
 This class will discuss how to build effective product development teams. We’ll discuss the lifecycle of teams, recruiting, effective line management including how to motivate and develop your people, and practice conflict resolution techniques.
+
+[Slides](http://www.slideshare.net/humblej/managing-teams-64091393)
 
 Background study:
 
@@ -112,6 +124,8 @@ Further reading:
 ## Week 8 - Case Study: Continuous Improvement
 
 At heart, Lean is about working to create resilient, adaptive organizations. Crucially, the work of getting better is never done. In this class we’ll try out techniques for continuous improvement from the Lean management philosophy including retrospectives and the improvement kata, and discuss how to apply them in the context of product development.
+
+[Slides](http://www.slideshare.net/humblej/continuous-improvement-64091391)
 
 Background Study:
 
@@ -134,9 +148,11 @@ Further reading:
 
 Our final class will cover what is expected of a product manager, including the skills, responsibilities and key activities product managers must perform.
 
+[Slides](http://www.slideshare.net/humblej/the-role-of-the-product-manager)
+
 Background Study:
 
-* You Chose Product Marketing---Deal With It! [Part 1](https://www.youtube.com/watch?v=czYDshjmys4) | [Part 2](https://www.youtube.com/watch?v=pHeiRiRUkeo) by Sun Microsystems
+* You Chose Product Marketing---Deal With It! [Part 1](https://www.youtube.com/watch?v=czYDshjmys4) [Part 2](https://www.youtube.com/watch?v=pHeiRiRUkeo) by Sun Microsystems
 * Product Managers Are Working on the Wrong Things by Tom Grant
 
 Further reading:
