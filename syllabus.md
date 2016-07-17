@@ -7,7 +7,7 @@ title: Syllabus
 
 LAPM is a one-semester course, taught in the form of 13 two-hour weekly classes, of which typically four are guest lectures. The remaining classes are detailed below.
 
-## Week 1. Introduction to the Product Lifecycle.
+## Unit 1. Introduction to the Product Lifecycle.
 
 In our first class, we’ll discuss the various characteristics and types of products, paying particular attention to the product lifecycle. We’ll introduce the idea of a business model, and discuss the various risks that products might face in different parts of the product lifecycle. We’ll review a brief history of project and product management, and discuss the differences between the two.
 
@@ -18,7 +18,7 @@ Background study:
 * [The History of Lean Software Development](http://www.informit.com/articles/article.aspx?p=664147) by Mary and Tom Poppendieck.
 * [The New Methodology](http://www.martinfowler.com/articles/newMethodology.html) by Martin Fowler 
 
-## Week 2. Economic Frameworks for Portfolio and Product Management.
+## Unit 2. Economic Frameworks for Portfolio and Product Management.
 
 This class presents the idea of using economic frameworks for portfolio and project management. We’ll begin with an overview of the three horizons model, and discuss the economic models that are suitable in each horizon. We’ll then discuss and experiment with economic tools that can be applied in each horizon, including the Value of Information, Monte Carlo and Cost of Delay.
 
@@ -36,7 +36,7 @@ Further reading:
 * _Lean Enterprise_ by Jez Humble, Joanne Molesky, and Barry O'Reilly
 * [Decision Tree Primer](http://www.public.asu.edu/~kirkwood/DAStuff/decisiontrees/) by Craig Kirkwood.
 
-## Week 3. Getting to Know your Users
+## Unit 3. Getting to Know Your Users
 
 This class will introduce the idea of a scientific approach to product development. We’ll focus on how to make sure we build products customers love, starting with how to frame hypotheses and perform user research.
 
@@ -53,7 +53,7 @@ Further reading:
 * _Badass: Making Users Awesome_ by Kathy Sierra
 * _Agile User Experience Design_ by Lindsay Ratcliffe and Marc McNeill
 
-## Week 4 - Introduction to Agile Software Development
+## Unit 4 - Introduction to Agile Software Development
 
 In this class we’ll present the concepts at the heart of the agile approach to software development, using Scrum and Kanban as our guides. We’ll learn about iterative and incremental development, the various activities that need to be performed in the iterative model, and the key roles found in agile teams.
 
@@ -62,7 +62,7 @@ Background study:
 * [What is Extreme Programming](http://ronjeffries.com/xprog/what-is-extreme-programming/) by Ron Jeffries.
 * [Scrum Overview for Agile Software Development](https://www.mountaingoatsoftware.com/agile/scrum/overview) by Mike Cohn
 
-## Week 5 - Planning Releases
+## Unit 5 - Planning Releases
 
 Despite rumours to the contrary, there are planning activities in the agile model. In this class we’ll discuss how to plan releases, and present story mapping and impact mapping as effective tools for design, ideation and planning.
 
@@ -80,7 +80,7 @@ Further reading:
 * _Waltzing with Bears_ by Tom DeMarco and Timothy Lister
 * _User Story Mapping_ by Jeff Patton
 
-## Week 6 - An Experimental Approach to Product Development
+## Unit 6 - An Experimental Approach to Product Development
 
 This class will present hypothesis-driven development, the cutting-edge paradigm for evolving validated products. We’ll dive into how to frame hypotheses, design experiments, and use A/B testing to gather data to prove or disprove our ideas.
 
@@ -99,7 +99,7 @@ Further reading:
 * _Lean UX_ by Jeff Gothelf with Josh Seiden
 * _Lean Enterprise_ by Jez Humble, Joanne Molesky, and Barry O'Reilly
 
-## Week 7 - Managing Teams
+## Unit 7 - Managing Teams
 
 This class will discuss how to build effective product development teams. We’ll discuss the lifecycle of teams, recruiting, effective line management including how to motivate and develop your people, and practice conflict resolution techniques.
 
@@ -121,7 +121,7 @@ Further reading:
 * _Out of the Crisis_ by W. Edwards Deming
 * _Lean Enterprise_ by Jez Humble, Joanne Molesky, and Barry O'Reilly
 
-## Week 8 - Case Study: Continuous Improvement
+## Unit 8 - Case Study: Continuous Improvement
 
 At heart, Lean is about working to create resilient, adaptive organizations. Crucially, the work of getting better is never done. In this class we’ll try out techniques for continuous improvement from the Lean management philosophy including retrospectives and the improvement kata, and discuss how to apply them in the context of product development.
 
@@ -144,7 +144,7 @@ Further reading:
 * _Toyota Kata_ by Mike Rother
 * [Toyota Kata Handbook](www-personal.umich.edu/~mrother/Homepage.html) by Mike Rother
 
-## Week 9 - The Role of the Product Manager
+## Unit 9 - The Role of the Product Manager
 
 Our final class will cover what is expected of a product manager, including the skills, responsibilities and key activities product managers must perform.
 
