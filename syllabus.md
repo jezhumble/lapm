@@ -11,24 +11,28 @@ LAPM is a one-semester course, taught in the form of 13 two-hour weekly classes,
 
 In our first class, we’ll discuss the various characteristics and types of products, paying particular attention to the product lifecycle. We’ll introduce the idea of a business model, and discuss the various risks that products might face in different parts of the product lifecycle. We’ll review a brief history of project and product management, and discuss the differences between the two.
 
-[Slides](http://www.slideshare.net/humblej/introduction-64091415)
-
-Background study:
+### Background study
 
 * [The History of Lean Software Development](http://www.informit.com/articles/article.aspx?p=664147) by Mary and Tom Poppendieck.
 * [The New Methodology](http://www.martinfowler.com/articles/newMethodology.html) by Martin Fowler 
+
+### [Slides](http://www.slideshare.net/humblej/introduction-64091415)
+
+### Assignment
+
+Write a short essay on the difference between the lean/agile paradigm for product development and the traditional project management process. Keep it between 200-300 words (conciseness is much appreciated).
 
 ## Unit 2. Economic Frameworks for Portfolio and Product Management.
 
 This class presents the idea of using economic frameworks for portfolio and project management. We’ll begin with an overview of the three horizons model, and discuss the economic models that are suitable in each horizon. We’ll then discuss and experiment with economic tools that can be applied in each horizon, including the Value of Information, Monte Carlo and Cost of Delay.
 
-[Slides](http://www.slideshare.net/humblej/economic-frameworks)
-
-Background study:
+### Background study:
 
 * [Black Swan Farming using Cost of Delay](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6612885) by Joshua J Arnold and Özlem Yüce
 
-Further reading:
+### [Slides](http://www.slideshare.net/humblej/economic-frameworks)
+
+### Further reading
 
 * _How to Measure Anything_ by Douglas Hubbard
 * _The Principles of Product Development Flow_ by Don Reinertsen
@@ -36,63 +40,127 @@ Further reading:
 * _Lean Enterprise_ by Jez Humble, Joanne Molesky, and Barry O'Reilly
 * [Decision Tree Primer](http://www.public.asu.edu/~kirkwood/DAStuff/decisiontrees/) by Craig Kirkwood.
 
+### Assignment
+
+Economic Framework Problem Set
+
 ## Unit 3. Getting to Know Your Users
 
 This class will introduce the idea of a scientific approach to product development. We’ll focus on how to make sure we build products customers love, starting with how to frame hypotheses and perform user research.
 
-[Slides](http://www.slideshare.net/humblej/user-research-64091404)
-
-Background study:
+### Background study:
 
 * [Won’t be Fooled Again](https://www.youtube.com/watch?v=a--xbF_WGyM) by Jeff Patton
 
-Further reading:
+### [Slides](http://www.slideshare.net/humblej/user-research-64091404)
+
+### Further reading
 
 * _Lean UX_ by Jeff Gothelf with Josh Seiden
 * [Usability.gov](http://usability.gov/)
 * _Badass: Making Users Awesome_ by Kathy Sierra
 * _Agile User Experience Design_ by Lindsay Ratcliffe and Marc McNeill
 
+### Assignment
+
+For this assignment and those for units x, y and z, you'll need to
+pick a business idea. This could be for a project that you're
+currently working on, or you can make up a business idea of your own.
+
+For this assignemnt, complete the following exercises by filling out
+[this template](https://docs.google.com/document/d/1IoTYB3YJ_XnCvHsAeCse3O-kvDUyJ9IaV4u6pGbMum8/edit).
+
+1. Write a brief problem statement for your product.
+2. Fill out a Business Assumptions Worksheet for your product
+3. Create *three* proto-personas for your product.
+4. With these proto-personas, create *three* hypotheses for your product.
+
 ## Unit 4 - Introduction to Agile Software Development
 
 In this class we’ll present the concepts at the heart of the agile approach to software development, using Scrum and Kanban as our guides. We’ll learn about iterative and incremental development, the various activities that need to be performed in the iterative model, and the key roles found in agile teams.
 
-Background study:
+### Background study:
 
 * [What is Extreme Programming](http://ronjeffries.com/xprog/what-is-extreme-programming/) by Ron Jeffries.
 * [Scrum Overview for Agile Software Development](https://www.mountaingoatsoftware.com/agile/scrum/overview) by Mike Cohn
+
+### Class exercise
+
+Elisabeth Hendrickson's [WordCount simulation](http://agilistry.com/downloads/WordCountLessons.pdf)
+
+### Assignment
+
+Write a ~200-word short essay reflecting on your experience with the WordCount exercise in class, and how agile development concepts were able to improve your team's ability to release features and satisfy customers.
+
+Some guide questions that can help frame your response (no need to
+respond to all): What was your role in the exercise? How did your role
+change through the three rounds/iterations? Was your team able to
+successfully adapt using Agile methods? How could the team have
+performed better? Did you see parallels in the exercise to real
+situations in the workplace? What concepts or examples from the
+readings or group presentations did you see or wish you had seen your
+team apply in the exercise?
+
+Optional supplementary reading for assignment:
+
+* [The WordCount simulation](http://testobsessed.com/2008/11/the-wordcount-simulation/)
+* [WordCount: a Happy Surprise](http://testobsessed.com/2010/09/wordcount-a-happy-surprise/)
+* [Agile Adjustments: a WordCount story](http://testobsessed.com/2012/01/agile-adjustments-a-wordcount-story/)
 
 ## Unit 5 - Planning Releases
 
 Despite rumours to the contrary, there are planning activities in the agile model. In this class we’ll discuss how to plan releases, and present story mapping and impact mapping as effective tools for design, ideation and planning.
 
-[Slides](http://www.slideshare.net/humblej/release-planning-64091364)
-
-Background study:
+### Background study
 
 * [Agile Product Ownership in a Nutshell](http://blog.crisp.se/2012/10/25/henrikkniberg/agile-product-ownership-in-a-nutshell) by Henrik Kniberg
 * [User Story Mapping by Jeff Patton](http://jpattonassociates.com/the-new-backlog/) by Jeff Patton
 
-Further reading:
+### [Slides](http://www.slideshare.net/humblej/release-planning-64091364)
+
+### Further reading
 
 * [Dear Customer: The Truth about IT Projects](http://www.agileconnection.com/article/dear-customer-truth-about-it-projects) by Allan Kelly
 * [Estimation is Evil](https://pragprog.com/magazines/2013-02/estimation-is-evil) by Ron Jeffries
 * _Waltzing with Bears_ by Tom DeMarco and Timothy Lister
 * _User Story Mapping_ by Jeff Patton
 
+### Assignment
+
+Create a user story map for one of the personas you created in your
+Unit 3 assignment. If you were excused from that assignment, feel free
+to use a project you're working on this semester and create a persona
+to use in this assignment.
+
+Identify *three* activities the chosen persona might want to carry out
+with your software, and map out the activities, backbone, and tasks
+like we discussed this week in class. Expect to spend about an hour on
+this, not including reading the resources. You may use a tool of your
+choice to turn this in, such as turning in a PDF document or a URL to
+an online tool such as [stickies.io](http://stickies.io) or
+[Trello](https://trello.com) (If using
+Trello, please add the course TA to your board.)
+
+Please leverage the following resources (in addition to the readings
+for this week) in creating your user story map:
+
+* Jeff Patton's [quick reference](http://jpattonassociates.com/wp-content/uploads/2015/03/story_mapping.pdf)---start with Page 2. In this activity, I'm expecting you to carry out the first 3 steps listed on page 2: Frame, Map the big picture, Explore. I'm not expecting you to slice out releases or prepare a development strategy.
+* [Chapter 1 of Jeff Patton's book](http://cdn.oreillystatic.com/oreilly/booksamplers/9781491904909_sampler.pdf) has an example of a story mapping exercise.
+* Here's [another article](http://winnipegagilist.blogspot.com/2012/03/how-to-create-user-story-map.html) that you might find useful.
+
 ## Unit 6 - An Experimental Approach to Product Development
 
 This class will present hypothesis-driven development, the cutting-edge paradigm for evolving validated products. We’ll dive into how to frame hypotheses, design experiments, and use A/B testing to gather data to prove or disprove our ideas.
 
-[Slides](http://www.slideshare.net/humblej/experimental-product-development)
-
-Background study:
+### Background study:
 
 * [Platform Rant](https://plus.google.com/+RipRowan/posts/eVeouesvaVX) by Steve Yegge
 * [Early Amazon Shopping Cart](http://glinden.blogspot.com/2006/04/early-amazon-shopping-cart.html) by Greg Linden
 * [A/B Testing and Continuous Delivery](http://www.infoq.com/presentations/ab-testing-continuous-delivery) by Nellwyn Thomas
 
-Further reading:
+### [Slides](http://www.slideshare.net/humblej/experimental-product-development)
+
+### Further reading
 
 * [Resources on Set-Based Design](http://xp123.com/articles/resources-on-set-based-design/)
 * _Impact Mapping_ by Gojko Adzic
@@ -103,15 +171,15 @@ Further reading:
 
 This class will discuss how to build effective product development teams. We’ll discuss the lifecycle of teams, recruiting, effective line management including how to motivate and develop your people, and practice conflict resolution techniques.
 
-[Slides](http://www.slideshare.net/humblej/managing-teams-64091393)
-
-Background study:
+### Background study:
 
 * [NUMMI 2015](http://www.thisamericanlife.org/radio-archives/episode/561/nummi-2015) by This American Life
 * [How to Change a Culture: Lessons from NUMMI](http://sloanreview.mit.edu/article/how-to-change-a-culture-lessons-from-nummi/) by John Shook
 * [The Power of an Agile Mindset](https://www.infoq.com/presentations/agile-mindset) by Linda Rising
 
-Further reading:
+### [Slides](http://www.slideshare.net/humblej/managing-teams-64091393)
+
+### Further reading:
 
 * [The Talent Myth](http://gladwell.com/the-talent-myth/) by Malcolm Gladwell
 * _Mindset_ by Carol Dweck
@@ -125,19 +193,19 @@ Further reading:
 
 At heart, Lean is about working to create resilient, adaptive organizations. Crucially, the work of getting better is never done. In this class we’ll try out techniques for continuous improvement from the Lean management philosophy including retrospectives and the improvement kata, and discuss how to apply them in the context of product development.
 
-[Slides](http://www.slideshare.net/humblej/continuous-improvement-64091391)
-
-Background Study:
+### Background Study:
 
 * [HP LaserJet Firmware Case Study](https://s3-us-west-1.amazonaws.com/leanenterprise/lean_enterprise_excerpt.pdf) -- pp112-127 from Chapter 6 (use printed page numbers!)
 * Optional: Gary Gruver's [30m talk](https://www.youtube.com/watch?v=Trqjj3d3lhQ) about the transformation.
 
-Guide questions for the case study:
+### Guide questions for the case study:
 
 * What strategies could the HP LaserJet team have employed to get firmware off the critical path? Why did they choose the approach they did?
 * Imagine you were a product manager at HP working on products that used the LaserJet firmware during this rearchitecture. How would you have been impacted? What would you have to do differently? What would be keeping you awake at night?
 
-Further reading:
+### [Slides](http://www.slideshare.net/humblej/continuous-improvement-64091391)
+
+### Further reading:
 
 * _A Practical Approach to Large-Scale Agile Development_ by Gruver et al
 * _Leading the Transformation_ by Gruver et al
@@ -148,13 +216,13 @@ Further reading:
 
 Our final class will cover what is expected of a product manager, including the skills, responsibilities and key activities product managers must perform.
 
-[Slides](http://www.slideshare.net/humblej/the-role-of-the-product-manager)
-
-Background Study:
+### Background Study:
 
 * You Chose Product Marketing---Deal With It! [Part 1](https://www.youtube.com/watch?v=czYDshjmys4) [Part 2](https://www.youtube.com/watch?v=pHeiRiRUkeo) by Sun Microsystems
 * Product Managers Are Working on the Wrong Things by Tom Grant
 
-Further reading:
+### [Slides](http://www.slideshare.net/humblej/the-role-of-the-product-manager)
+
+### Further reading:
 
 * _Inspired_ by Marty Cagan
