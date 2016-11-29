@@ -50,7 +50,7 @@ There are no required books for this course: the supplementary material will mai
 * _The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses_ by Eric Ries
 * _Running Lean: Iterate from Plan A to a Plan That Works_ by Ash Maurya
 * _The Principles of Product Development Flow: Second Generation Lean Product Development_ by Donald G. Reinertsen
-* _Crossing the Chasm: Marketing and Selling Disruptive Products to Mainstream Customers_ by Geoffrey A. Moore
+* _Escape Velocity: Free Your Company's Future from the Pull of the Past_ by Geoffrey A. Moore
 * _User Story Mapping: Discover the Whole Story, Build the Right Product_ by Jeff Patton
 * _Lean Enterprise: How High Performance Organizations Innovate at Scale_ by Jez Humble, Joanne Molesky, and Barry O'Reilly
 * _How to Measure Anything: Finding the Value of “Intangibles” in Business_ by Douglas W. Hubbard
