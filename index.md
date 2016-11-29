@@ -26,6 +26,16 @@ The [syllabus](/syllabus.html), supplemented by guest lectures, covers the follo
 * Product marketing
 * Venture capital
 
+## Guest lectures
+
+Lecturers from previous years have included:
+
+* [Chad Wathington](https://twitter.com/twchad) on "The Essence of Product Management".
+* [Rachel Chalmers](https://twitter.com/rachelchalmers) on "How VCs Think about Product People".
+* [Andrew Malcolm](https://www.linkedin.com/in/malcolmandrew) with a product marketing case study.
+* [Hima Chintalapati](https://www.linkedin.com/in/hchintalapati) on pricing.
+* [Leah Bannon](http://leah.io/) and [Michael Torres](https://www.linkedin.com/in/mtorres253) on product management in government.
+
 # Pedagogy
 
 Contemporary research into education tells us that the most effective way for students to learn is through doing, and by synthesizing material themselves in both an individual and group setting. Thus the majority of the material is learned through group and independent study through [assignments](/assignments.html) and in-class exercises, including case studies. There is also traditional lecture-style teaching, but this is designed to be interactive, and students are strongly encouraged to ask questions and engage with the material. Final [grades](/assignments.html) are determined through continuous assessment, and there is no final exam.

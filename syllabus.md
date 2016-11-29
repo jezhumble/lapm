@@ -20,7 +20,7 @@ In our first class, we’ll discuss the various characteristics and types of pro
 
 ### Assignment
 
-Write a short essay on the difference between the lean/agile paradigm for product development and the traditional project management process. Keep it between 200-300 words (conciseness is much appreciated).
+Write a 200-300 word essay on the difference between the lean/agile paradigm for product development and the traditional project management process.
 
 ## Unit 2. Economic Frameworks for Portfolio and Product Management.
 
@@ -63,17 +63,15 @@ This class will introduce the idea of a scientific approach to product developme
 
 ### Assignment
 
-For this assignment and those for units x, y and z, you'll need to
-pick a business idea. This could be for a project that you're
-currently working on, or you can make up a business idea of your own.
+For this assignment and those for units 5 and 6, you'll need to pick a business idea. This could be for a project that you're currently working on, or you can make up a business idea of your own.
 
-For this assignemnt, complete the following exercises by filling out
-[this template](https://docs.google.com/document/d/1IoTYB3YJ_XnCvHsAeCse3O-kvDUyJ9IaV4u6pGbMum8/edit).
+For this assignemnt, complete the following exercises by filling out [this template](https://docs.google.com/document/d/1IoTYB3YJ_XnCvHsAeCse3O-kvDUyJ9IaV4u6pGbMum8/edit).
 
-1. Write a brief problem statement for your product.
-2. Fill out a Business Assumptions Worksheet for your product
-3. Create *three* proto-personas for your product.
-4. With these proto-personas, create *three* hypotheses for your product.
+1. Write a brief problem statement for your product (<100 words).
+2. Create a proto-persona for your product.
+3. Complete an [empathy map](https://www.dropbox.com/s/o505hvexcgucr9u/empathy-map-poster.pdf?dl=0) for your proto-persona (the linked canvas has more detail than the template).
+4. Complete a [value proposition canvas](https://www.dropbox.com/s/jw11z9d98jw220k/value_proposition_canvas.pdf?dl=0) for your persona (the linked canvas has more detail than the template).
+5. Fill out a Business Assumptions Worksheet for your product.
 
 ## Unit 4 - Introduction to Agile Software Development
 
@@ -90,16 +88,16 @@ Elisabeth Hendrickson's [WordCount simulation](http://agilistry.com/downloads/Wo
 
 ### Assignment
 
-Write a ~200-word short essay reflecting on your experience with the WordCount exercise in class, and how agile development concepts were able to improve your team's ability to release features and satisfy customers.
+Write a 200-300 word essay reflecting on your experience with the WordCount exercise in class, and how agile development concepts were able to improve your team's ability to release features and satisfy customers.
 
-Some guide questions that can help frame your response (no need to
-respond to all): What was your role in the exercise? How did your role
-change through the three rounds/iterations? Was your team able to
-successfully adapt using Agile methods? How could the team have
-performed better? Did you see parallels in the exercise to real
-situations in the workplace? What concepts or examples from the
-readings or group presentations did you see or wish you had seen your
-team apply in the exercise?
+Some guide questions that can help frame your response (no need to respond to all):
+
+* What was your role in the exercise?
+* How did your role change through the three rounds/iterations?
+* Was your team able to successfully adapt using Agile methods?
+* How could the team have performed better?
+* Did you see parallels in the exercise to real situations in the workplace?
+* What concepts or examples from the readings or group presentations did you see or wish you had seen your team apply in the exercise?
 
 Optional supplementary reading for assignment:
 
@@ -127,22 +125,12 @@ Despite rumours to the contrary, there are planning activities in the agile mode
 
 ### Assignment
 
-Create a user story map for one of the personas you created in your
-Unit 3 assignment. If you were excused from that assignment, feel free
-to use a project you're working on this semester and create a persona
-to use in this assignment.
+Create a user story map for one of the personas you created in your Unit 3 assignment. If you were excused from that assignment, feel free to use a project you're working on this semester and create a persona to use in this assignment.
 
-Identify *three* activities the chosen persona might want to carry out
-with your software, and map out the activities, backbone, and tasks
-like we discussed this week in class. Expect to spend about an hour on
-this, not including reading the resources. You may use a tool of your
-choice to turn this in, such as turning in a PDF document or a URL to
-an online tool such as [stickies.io](http://stickies.io) or
-[Trello](https://trello.com) (If using
-Trello, please add the course TA to your board.)
+Identify *three* activities the chosen persona might want to carry out with your software, and map out the activities, backbone, and tasks like we discussed this week in class. Expect to spend about an hour on this, not including reading the resources. You may use a tool of your choice to turn this in, such as turning in a PDF document or a URL to
+an online tool such as [stickies.io](http://stickies.io) or [Trello](https://trello.com) (If using Trello, please add the course TA to your board.)
 
-Please leverage the following resources (in addition to the readings
-for this week) in creating your user story map:
+Please leverage the following resources (in addition to the readings for this week) in creating your user story map:
 
 * Jeff Patton's [quick reference](http://jpattonassociates.com/wp-content/uploads/2015/03/story_mapping.pdf)---start with Page 2. In this activity, I'm expecting you to carry out the first 3 steps listed on page 2: Frame, Map the big picture, Explore. I'm not expecting you to slice out releases or prepare a development strategy.
 * [Chapter 1 of Jeff Patton's book](http://cdn.oreillystatic.com/oreilly/booksamplers/9781491904909_sampler.pdf) has an example of a story mapping exercise.
@@ -167,6 +155,15 @@ This class will present hypothesis-driven development, the cutting-edge paradigm
 * _Lean UX_ by Jeff Gothelf with Josh Seiden
 * _Lean Enterprise_ by Jez Humble, Joanne Molesky, and Barry O'Reilly
 
+### Assignment
+
+Design an experiment to validate one of the key product hypotheses for your Unit 3 assignment, using the template from today's class. Describe your experiment, including:
+
+* What do you expect the results to be?
+* What result will confirm your hypothesis?
+* What result will disprove your hypothesis?
+* How soon can we get the result?
+
 ## Unit 7 - Managing Teams
 
 This class will discuss how to build effective product development teams. We’ll discuss the lifecycle of teams, recruiting, effective line management including how to motivate and develop your people, and practice conflict resolution techniques.
@@ -188,6 +185,10 @@ This class will discuss how to build effective product development teams. We’l
 * [One on Ones template](https://www.manager-tools.com/system/files/documents/docs/Manager-Tools_One_on_One_Basics.pdf) by Manager Tools
 * _Out of the Crisis_ by W. Edwards Deming
 * _Lean Enterprise_ by Jez Humble, Joanne Molesky, and Barry O'Reilly
+
+### Assignment
+
+Choose one of [Deming's 14 points for management](https://deming.org/management-system/fourteenpoints), and write a 200-300 word short essay on its implications for product management.
 
 ## Unit 8 - Case Study: Continuous Improvement
 
@@ -211,6 +212,14 @@ At heart, Lean is about working to create resilient, adaptive organizations. Cru
 * _Leading the Transformation_ by Gruver et al
 * _Toyota Kata_ by Mike Rother
 * [Toyota Kata Handbook](www-personal.umich.edu/~mrother/Homepage.html) by Mike Rother
+
+### Assignment
+
+Write a 200-300 word short essay. Choose *one* of the following titles:
+
+* What factors led to the success of the HP FutureSmart team's rearchitecture program? OR
+* HP FutureSmart rearchitecture: Kaizen or Kaikaku? OR
+* What is required to successfully implement continuous improvement?
 
 ## Unit 9 - The Role of the Product Manager
 
