@@ -5,7 +5,7 @@ title: Syllabus
 
 # Syllabus
 
-LAPM is a one-semester course, taught in the form of 13 two-hour weekly classes, of which typically four are guest lectures. The remaining classes are detailed below.
+LAPM is a one-semester course, taught in the form of 13 three-hour weekly classes, of which typically four are guest lectures. Eight of the nine remaining classes are detailed below. The final class is for final project presentations. 
 
 ## Unit 1. Introduction to the Product Lifecycle.
 
@@ -20,31 +20,9 @@ In our first class, we’ll discuss the various characteristics and types of pro
 
 ### Assignment
 
-Write a 200-300 word essay on the difference between the lean/agile paradigm for product development and the traditional project management process.
+Write a 500 word essay on the difference between the lean/agile paradigm for product development and the traditional project management process.
 
-## Unit 2. Economic Frameworks for Portfolio and Product Management.
-
-This class presents the idea of using economic frameworks for portfolio and project management. We’ll begin with an overview of the three horizons model, and discuss the economic models that are suitable in each horizon. We’ll then discuss and experiment with economic tools that can be applied in each horizon, including the Value of Information, Monte Carlo and Cost of Delay.
-
-### Background study:
-
-* [Black Swan Farming using Cost of Delay](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6612885) by Joshua J Arnold and Özlem Yüce
-
-### [Slides](http://www.slideshare.net/humblej/economic-frameworks)
-
-### Further reading
-
-* _How to Measure Anything_ by Douglas Hubbard
-* _The Principles of Product Development Flow_ by Don Reinertsen
-* _Waltzing with Bears_ by Tom DeMarco and Timothy Lister
-* _Lean Enterprise_ by Jez Humble, Joanne Molesky, and Barry O'Reilly
-* [Decision Tree Primer](http://www.public.asu.edu/~kirkwood/DAStuff/decisiontrees/) by Craig Kirkwood.
-
-### Assignment
-
-Economic Framework Problem Set
-
-## Unit 3. Getting to Know Your Users
+## Unit 2. Getting to Know Your Users
 
 This class will introduce the idea of a scientific approach to product development. We’ll focus on how to make sure we build products customers love, starting with how to frame hypotheses and perform user research.
 
@@ -63,15 +41,44 @@ This class will introduce the idea of a scientific approach to product developme
 
 ### Assignment
 
-For this assignment and those for units 5 and 6, you'll need to pick a business idea. This could be for a project that you're currently working on, or you can make up a business idea of your own.
+For this assignment, you'll need to come up with an idea for a business. This could be for a project that you're currently working on, or you can make up a business idea of your own.
 
-For this assignemnt, complete the following exercises by filling out [this template](https://docs.google.com/document/d/1IoTYB3YJ_XnCvHsAeCse3O-kvDUyJ9IaV4u6pGbMum8/edit).
+For this assignment, complete the following exercises by filling out [this template](https://docs.google.com/document/d/1IoTYB3YJ_XnCvHsAeCse3O-kvDUyJ9IaV4u6pGbMum8/edit).
 
 1. Write a brief problem statement for your product (<100 words).
 2. Create a proto-persona for your product.
 3. Complete an [empathy map](https://www.dropbox.com/s/o505hvexcgucr9u/empathy-map-poster.pdf?dl=0) for your proto-persona (the linked canvas has more detail than the template).
 4. Complete a [value proposition canvas](https://www.dropbox.com/s/jw11z9d98jw220k/value_proposition_canvas.pdf?dl=0) for your persona (the linked canvas has more detail than the template).
+4. Complete a [business model canvas](https://www.dropbox.com/s/v3s3j4huwr4to3q/business_model_canvas.pdf?dl=0) for your product (the linked canvas has more detail than the template).
 5. Fill out a Business Assumptions Worksheet for your product.
+
+## Unit 3 - An Experimental Approach to Product Development
+
+This class will present hypothesis-driven development, the cutting-edge paradigm for evolving validated products. We’ll dive into how to frame hypotheses, design experiments, and use A/B testing to gather data to prove or disprove our ideas.
+
+### Background study:
+
+* [Platform Rant](https://plus.google.com/+RipRowan/posts/eVeouesvaVX) by Steve Yegge
+* [Early Amazon Shopping Cart](http://glinden.blogspot.com/2006/04/early-amazon-shopping-cart.html) by Greg Linden
+* [A/B Testing and Continuous Delivery](http://www.infoq.com/presentations/ab-testing-continuous-delivery) by Nellwyn Thomas
+
+### [Slides](http://www.slideshare.net/humblej/experimental-product-development)
+
+### Further reading
+
+* [Resources on Set-Based Design](http://xp123.com/articles/resources-on-set-based-design/)
+* _Impact Mapping_ by Gojko Adzic
+* _Lean UX_ by Jeff Gothelf with Josh Seiden
+* _Lean Enterprise_ by Jez Humble, Joanne Molesky, and Barry O'Reilly
+
+### Assignment
+
+Design an experiment to validate one of the key product hypotheses for your group project, using the template from today's class. Describe your experiment, including:
+
+* What do you expect the results to be?
+* What result will confirm your hypothesis?
+* What result will disprove your hypothesis?
+* How soon can we get the result?
 
 ## Unit 4 - Introduction to Agile Software Development
 
@@ -88,7 +95,7 @@ Elisabeth Hendrickson's [WordCount simulation](http://agilistry.com/downloads/Wo
 
 ### Assignment
 
-Write a 200-300 word essay reflecting on your experience with the WordCount exercise in class, and how agile development concepts were able to improve your team's ability to release features and satisfy customers.
+Write a 500 word essay reflecting on your experience with the WordCount exercise in class, and how agile development concepts were able to improve your team's ability to release features and satisfy customers.
 
 Some guide questions that can help frame your response (no need to respond to all):
 
@@ -136,43 +143,39 @@ Please leverage the following resources (in addition to the readings for this we
 * [Chapter 1 of Jeff Patton's book](http://cdn.oreillystatic.com/oreilly/booksamplers/9781491904909_sampler.pdf) has an example of a story mapping exercise.
 * Here's [another article](http://winnipegagilist.blogspot.com/2012/03/how-to-create-user-story-map.html) that you might find useful.
 
-## Unit 6 - An Experimental Approach to Product Development
+## Unit 6. Economic Frameworks for Portfolio and Product Management.
 
-This class will present hypothesis-driven development, the cutting-edge paradigm for evolving validated products. We’ll dive into how to frame hypotheses, design experiments, and use A/B testing to gather data to prove or disprove our ideas.
+This class presents the idea of using economic frameworks for portfolio and project management. We’ll begin with an overview of the three horizons model, and discuss the economic models that are suitable in each horizon. We’ll then discuss and experiment with economic tools that can be applied in each horizon, including the Value of Information, Monte Carlo and Cost of Delay.
 
 ### Background study:
 
-* [Platform Rant](https://plus.google.com/+RipRowan/posts/eVeouesvaVX) by Steve Yegge
-* [Early Amazon Shopping Cart](http://glinden.blogspot.com/2006/04/early-amazon-shopping-cart.html) by Greg Linden
-* [A/B Testing and Continuous Delivery](http://www.infoq.com/presentations/ab-testing-continuous-delivery) by Nellwyn Thomas
+* [Black Swan Farming using Cost of Delay](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6612885) by Joshua J Arnold and Özlem Yüce
 
-### [Slides](http://www.slideshare.net/humblej/experimental-product-development)
+### [Slides](http://www.slideshare.net/humblej/economic-frameworks)
 
 ### Further reading
 
-* [Resources on Set-Based Design](http://xp123.com/articles/resources-on-set-based-design/)
-* _Impact Mapping_ by Gojko Adzic
-* _Lean UX_ by Jeff Gothelf with Josh Seiden
+* _How to Measure Anything_ by Douglas Hubbard
+* _The Principles of Product Development Flow_ by Don Reinertsen
+* _Waltzing with Bears_ by Tom DeMarco and Timothy Lister
 * _Lean Enterprise_ by Jez Humble, Joanne Molesky, and Barry O'Reilly
+* [Decision Tree Primer](http://www.public.asu.edu/~kirkwood/DAStuff/decisiontrees/) by Craig Kirkwood.
 
 ### Assignment
 
-Design an experiment to validate one of the key product hypotheses for your Unit 3 assignment, using the template from today's class. Describe your experiment, including:
-
-* What do you expect the results to be?
-* What result will confirm your hypothesis?
-* What result will disprove your hypothesis?
-* How soon can we get the result?
+Decision tree problem set
 
 ## Unit 7 - Managing Teams
 
-This class will discuss how to build effective product development teams. We’ll discuss the lifecycle of teams, recruiting, effective line management including how to motivate and develop your people, and practice conflict resolution techniques.
+This class will discuss how to build effective product development teams. We’ll discuss the lifecycle of teams, recruiting, effective line management including how to motivate and develop your people, and practice conflict resolution techniques. We'll also cover what is expected of a product manager, including the skills, responsibilities and key activities product managers must perform.
 
 ### Background study:
 
 * [NUMMI 2015](http://www.thisamericanlife.org/radio-archives/episode/561/nummi-2015) by This American Life
 * [How to Change a Culture: Lessons from NUMMI](http://sloanreview.mit.edu/article/how-to-change-a-culture-lessons-from-nummi/) by John Shook
 * [The Power of an Agile Mindset](https://www.infoq.com/presentations/agile-mindset) by Linda Rising
+* You Chose Product Marketing---Deal With It! [Part 1](https://www.youtube.com/watch?v=czYDshjmys4) [Part 2](https://www.youtube.com/watch?v=pHeiRiRUkeo) by Sun Microsystems
+* Product Managers Are Working on the Wrong Things by Tom Grant
 
 ### [Slides](http://www.slideshare.net/humblej/managing-teams-64091393)
 
@@ -183,12 +186,13 @@ This class will discuss how to build effective product development teams. We’l
 * _Drive_ by Daniel Pink
 * [Fourteen Points for Management](https://deming.org/theman/theories/fourteenpoints) by W. Edwards Deming
 * [One on Ones template](https://www.manager-tools.com/system/files/documents/docs/Manager-Tools_One_on_One_Basics.pdf) by Manager Tools
+* _Inspired_ by Marty Cagan
 * _Out of the Crisis_ by W. Edwards Deming
 * _Lean Enterprise_ by Jez Humble, Joanne Molesky, and Barry O'Reilly
 
 ### Assignment
 
-Choose one of [Deming's 14 points for management](https://deming.org/management-system/fourteenpoints), and write a 200-300 word short essay on its implications for product management.
+Choose one of [Deming's 14 points for management](https://deming.org/management-system/fourteenpoints), and write a 500 word short essay on its implications for product management.
 
 ## Unit 8 - Case Study: Continuous Improvement
 
@@ -215,23 +219,8 @@ At heart, Lean is about working to create resilient, adaptive organizations. Cru
 
 ### Assignment
 
-Write a 200-300 word short essay. Choose *one* of the following titles:
+Write a 500 word short essay. Choose *one* of the following titles:
 
 * What factors led to the success of the HP FutureSmart team's rearchitecture program? OR
 * HP FutureSmart rearchitecture: Kaizen or Kaikaku? OR
 * What is required to successfully implement continuous improvement?
-
-## Unit 9 - The Role of the Product Manager
-
-Our final class will cover what is expected of a product manager, including the skills, responsibilities and key activities product managers must perform.
-
-### Background Study:
-
-* You Chose Product Marketing---Deal With It! [Part 1](https://www.youtube.com/watch?v=czYDshjmys4) [Part 2](https://www.youtube.com/watch?v=pHeiRiRUkeo) by Sun Microsystems
-* Product Managers Are Working on the Wrong Things by Tom Grant
-
-### [Slides](http://www.slideshare.net/humblej/the-role-of-the-product-manager)
-
-### Further reading:
-
-* _Inspired_ by Marty Cagan
