@@ -7,9 +7,9 @@ title: Assignments
 
 Continuous assessment will be used for this course---there is no final exam. Grades will be allocated as follows:
 
-* 20% for attendance;
+* 15% for attendance;
 * 20% for one 25 minute topic presentation. Group presentations provide an opportunity for the class to be exposed to real-world examples or in-depth explorations of techniques related to the topic being discussed for the week. Please see the Group Presentations page for more information;
-* 25% for your 25 minute final project group presentation and supporting material;
+* 30% for your 25 minute final project group presentation and supporting material;
 * 35% for a set of weekly assignments as described in the [syllabus](/syllabus.html) which take the form of either exercises or short essays. These are retrospective and will reflect on the lessons learned from the previous class.
 
 # Presentations
@@ -58,7 +58,7 @@ In week 3, we discuss how to take an experimental approach to product developmen
 
 In your final presentation, you'll present the your business model and product canvases, and describe the experiments you performed, what you learned, and the decisions you made as a result. Teams must describe at least three experiments in order to have a chance to achieve the highest grade.
 
-Presentations must follow the same guidelines (above) as the topic presentations. However there will be an additional 5 points available for supporting material:
+Presentations must follow the same guidelines (above) as the topic presentations. However there will be an additional 10 points available for supporting material:
 
-* A completed and up-to-date business model canvas, value proposition canvas, proto-personas, and empathy maps (2 points);
-* Documentation for each experiment, including hypothesis, expected result, description of experiment, results, and what you decided based on the results (1 point per experiment).
+* A completed and up-to-date business model canvas, value proposition canvas, proto-personas, and empathy maps (4 points);
+* Documentation for each experiment, including hypothesis, expected result, description of experiment, results, and what you decided based on the results (2 points per experiment).
