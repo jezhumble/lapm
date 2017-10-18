@@ -22,65 +22,7 @@ In our first class, we’ll discuss the various characteristics and types of pro
 
 Write a 500 word essay on the difference between the lean/agile paradigm for product development and the traditional project management process.
 
-## Unit 2. Getting to Know Your Users
-
-This class will introduce the idea of a scientific approach to product development. We’ll focus on how to make sure we build products customers love, starting with how to frame hypotheses and perform user research.
-
-### Background study:
-
-* [Won’t be Fooled Again](https://www.youtube.com/watch?v=a--xbF_WGyM) by Jeff Patton
-
-### [Slides](http://www.slideshare.net/humblej/user-research-64091404)
-
-### Further reading
-
-* _Lean UX_ by Jeff Gothelf with Josh Seiden
-* [Usability.gov](http://usability.gov/)
-* _Badass: Making Users Awesome_ by Kathy Sierra
-* _Agile User Experience Design_ by Lindsay Ratcliffe and Marc McNeill
-
-### Assignment
-
-For this assignment, you'll need to come up with an idea for a business. This could be for a project that you're currently working on, or you can make up a business idea of your own.
-
-For this assignment, complete the following exercises by filling out [this template](https://docs.google.com/document/d/1IoTYB3YJ_XnCvHsAeCse3O-kvDUyJ9IaV4u6pGbMum8/edit).
-
-1. Write a brief problem statement for your product (<100 words).
-2. Create a proto-persona for your product.
-3. Complete an [empathy map](https://www.dropbox.com/s/o505hvexcgucr9u/empathy-map-poster.pdf?dl=0) for your proto-persona (the linked canvas has more detail than the template).
-4. Complete a [value proposition canvas](https://www.dropbox.com/s/jw11z9d98jw220k/value_proposition_canvas.pdf?dl=0) for your persona (the linked canvas has more detail than the template).
-4. Complete a [business model canvas](https://www.dropbox.com/s/v3s3j4huwr4to3q/business_model_canvas.pdf?dl=0) for your product (the linked canvas has more detail than the template).
-5. Fill out a Business Assumptions Worksheet for your product.
-
-## Unit 3 - An Experimental Approach to Product Development
-
-This class will present hypothesis-driven development, the cutting-edge paradigm for evolving validated products. We’ll dive into how to frame hypotheses, design experiments, and use A/B testing to gather data to prove or disprove our ideas.
-
-### Background study:
-
-* [Platform Rant](https://plus.google.com/+RipRowan/posts/eVeouesvaVX) by Steve Yegge
-* [Early Amazon Shopping Cart](http://glinden.blogspot.com/2006/04/early-amazon-shopping-cart.html) by Greg Linden
-* [A/B Testing and Continuous Delivery](http://www.infoq.com/presentations/ab-testing-continuous-delivery) by Nellwyn Thomas
-
-### [Slides](http://www.slideshare.net/humblej/experimental-product-development)
-
-### Further reading
-
-* [Resources on Set-Based Design](http://xp123.com/articles/resources-on-set-based-design/)
-* _Impact Mapping_ by Gojko Adzic
-* _Lean UX_ by Jeff Gothelf with Josh Seiden
-* _Lean Enterprise_ by Jez Humble, Joanne Molesky, and Barry O'Reilly
-
-### Assignment
-
-Design an experiment to validate one of the key product hypotheses for your group project, using the template from today's class. Describe your experiment, including:
-
-* What do you expect the results to be?
-* What result will confirm your hypothesis?
-* What result will disprove your hypothesis?
-* How soon can we get the result?
-
-## Unit 4 - Introduction to Agile Software Development
+## Unit 2 - Introduction to Agile Software Development
 
 In this class we’ll present the concepts at the heart of the agile approach to software development, using Scrum and Kanban as our guides. We’ll learn about iterative and incremental development, the various activities that need to be performed in the iterative model, and the key roles found in agile teams.
 
@@ -111,6 +53,64 @@ Optional supplementary reading for assignment:
 * [The WordCount simulation](http://testobsessed.com/2008/11/the-wordcount-simulation/)
 * [WordCount: a Happy Surprise](http://testobsessed.com/2010/09/wordcount-a-happy-surprise/)
 * [Agile Adjustments: a WordCount story](http://testobsessed.com/2012/01/agile-adjustments-a-wordcount-story/)
+
+## Unit 3. Getting to Know Your Users
+
+This class will introduce the idea of a scientific approach to product development. We’ll focus on how to make sure we build products customers love, starting with how to frame hypotheses and perform user research.
+
+### Background study:
+
+* [Won’t be Fooled Again](https://www.youtube.com/watch?v=5JF_QMIMBls) by Jeff Patton
+
+### [Slides](http://www.slideshare.net/humblej/user-research-64091404)
+
+### Further reading
+
+* _Lean UX_ by Jeff Gothelf with Josh Seiden
+* [Usability.gov](http://usability.gov/)
+* _Badass: Making Users Awesome_ by Kathy Sierra
+* _Agile User Experience Design_ by Lindsay Ratcliffe and Marc McNeill
+
+### Assignment
+
+For this assignment, you'll need to come up with an idea for a business. This could be for a project that you're currently working on, or you can make up a business idea of your own.
+
+For this assignment, complete the following exercises by filling out [this template](https://docs.google.com/document/d/1IoTYB3YJ_XnCvHsAeCse3O-kvDUyJ9IaV4u6pGbMum8/edit).
+
+1. Write a brief problem statement for your product (<100 words).
+2. Create a proto-persona for your product.
+3. Complete an [empathy map](https://www.dropbox.com/s/o505hvexcgucr9u/empathy-map-poster.pdf?dl=0) for your proto-persona (the linked canvas has more detail than the template).
+4. Complete a [value proposition canvas](https://www.dropbox.com/s/jw11z9d98jw220k/value_proposition_canvas.pdf?dl=0) for your persona (the linked canvas has more detail than the template).
+4. Complete a [business model canvas](https://www.dropbox.com/s/v3s3j4huwr4to3q/business_model_canvas.pdf?dl=0) for your product (the linked canvas has more detail than the template).
+5. Fill out a Business Assumptions Worksheet for your product.
+
+## Unit 4 - An Experimental Approach to Product Development
+
+This class will present hypothesis-driven development, the cutting-edge paradigm for evolving validated products. We’ll dive into how to frame hypotheses, design experiments, and use A/B testing to gather data to prove or disprove our ideas.
+
+### Background study:
+
+* [Platform Rant](https://plus.google.com/+RipRowan/posts/eVeouesvaVX) by Steve Yegge
+* [Early Amazon Shopping Cart](http://glinden.blogspot.com/2006/04/early-amazon-shopping-cart.html) by Greg Linden
+* [A/B Testing and Continuous Delivery](http://www.infoq.com/presentations/ab-testing-continuous-delivery) by Nellwyn Thomas
+
+### [Slides](http://www.slideshare.net/humblej/experimental-product-development)
+
+### Further reading
+
+* [Resources on Set-Based Design](http://xp123.com/articles/resources-on-set-based-design/)
+* _Impact Mapping_ by Gojko Adzic
+* _Lean UX_ by Jeff Gothelf with Josh Seiden
+* _Lean Enterprise_ by Jez Humble, Joanne Molesky, and Barry O'Reilly
+
+### Assignment
+
+Design an experiment to validate one of the key product hypotheses for your group project, using the template from today's class. Describe your experiment, including:
+
+* What do you expect the results to be?
+* What result will confirm your hypothesis?
+* What result will disprove your hypothesis?
+* How soon can we get the result?
 
 ## Unit 5 - Planning Releases
 
@@ -169,17 +169,15 @@ Decision tree problem set
 
 This class will discuss how to build effective product development teams. We’ll discuss the lifecycle of teams, recruiting, effective line management including how to motivate and develop your people, and practice conflict resolution techniques. We'll also cover what is expected of a product manager, including the skills, responsibilities and key activities product managers must perform.
 
-### Background study:
+### Background study
 
 * [NUMMI 2015](http://www.thisamericanlife.org/radio-archives/episode/561/nummi-2015) by This American Life
 * [How to Change a Culture: Lessons from NUMMI](http://sloanreview.mit.edu/article/how-to-change-a-culture-lessons-from-nummi/) by John Shook
 * [The Power of an Agile Mindset](https://www.infoq.com/presentations/agile-mindset) by Linda Rising
-* You Chose Product Marketing---Deal With It! [Part 1](https://www.youtube.com/watch?v=czYDshjmys4) [Part 2](https://www.youtube.com/watch?v=pHeiRiRUkeo) by Sun Microsystems
-* Product Managers Are Working on the Wrong Things by Tom Grant
 
 ### [Slides](http://www.slideshare.net/humblej/managing-teams-64091393)
 
-### Further reading:
+### Further reading
 
 * [The Talent Myth](http://gladwell.com/the-talent-myth/) by Malcolm Gladwell
 * _Mindset_ by Carol Dweck
@@ -189,12 +187,31 @@ This class will discuss how to build effective product development teams. We’l
 * _Inspired_ by Marty Cagan
 * _Out of the Crisis_ by W. Edwards Deming
 * _Lean Enterprise_ by Jez Humble, Joanne Molesky, and Barry O'Reilly
+* Product Managers Are Working on the Wrong Things by Tom Grant
 
 ### Assignment
 
 Choose one of [Deming's 14 points for management](https://deming.org/management-system/fourteenpoints), and write a 500 word short essay on its implications for product management.
 
-## Unit 8 - Case Study: Continuous Improvement
+## Unit 8 - Managing Work
+
+Scrum and Kanban are frameworks designed to help manage work and perform process improvement at the team level. In this class we will explore Scrum, Kanban, and what XP has to say about work management. We'll discuss the key practices involved in applying these frameworks, the differences between them, and which situations to use them in.
+
+### Background Study
+
+* [The Scrum Guide](https://www.scrum.org/resources/scrum-guide) by Ken Schwaber and Jeff Sutherland
+* [Kanban and Scrum: Making the Most of Both](https://www.infoq.com/minibooks/kanban-scrum-minibook) by Henrik Kniberg and Mattias Skarin
+
+### Further Reading
+
+* _Extreme Programming Explained: Embrace Change (2nd Edition)_ by Kent Beck and Cynthia Andres
+* _Kanban: Successful Evolutionary Change for Your Technology Business_ by David J Anderson
+
+### Assignment
+
+Choose a principle from the Agile Manifesto, and a practice from one of the agile frameworks we've studied (Scrum, Kanban, and XP) and write a 500 word short essay on how the practice helps achieve the principle. Make sure you discuss the contexts in which the practice can work best, as well as a failure mode.
+
+## Unit 9 - Case Study: Continuous Improvement
 
 At heart, Lean is about working to create resilient, adaptive organizations. Crucially, the work of getting better is never done. In this class we’ll try out techniques for continuous improvement from the Lean management philosophy including retrospectives and the improvement kata, and discuss how to apply them in the context of product development.
 
