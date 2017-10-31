@@ -202,6 +202,8 @@ Scrum and Kanban are frameworks designed to help manage work and perform process
 * [The Scrum Guide](https://www.scrum.org/resources/scrum-guide) by Ken Schwaber and Jeff Sutherland
 * [Kanban and Scrum: Making the Most of Both](https://www.infoq.com/minibooks/kanban-scrum-minibook) by Henrik Kniberg and Mattias Skarin
 
+### [Slides](http://www.slideshare.net/humblej/managing-work)
+
 ### Further Reading
 
 * _Extreme Programming Explained: Embrace Change (2nd Edition)_ by Kent Beck and Cynthia Andres
