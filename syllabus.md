@@ -5,7 +5,7 @@ title: Syllabus
 
 # Syllabus
 
-LAPM is a one-semester course, taught in the form of 13 three-hour weekly classes, of which typically four are guest lectures. Eight of the nine remaining classes are detailed below. The final class is for final project presentations. 
+LAPM is a one-semester course, taught in the form of 12-13 three-hour weekly classes, of which typically 2-3 are guest lectures. Nine of the ten remaining classes are detailed below. The final class is for final project presentations. 
 
 ## Unit 1. Introduction to the Product Lifecycle.
 
@@ -22,7 +22,96 @@ In our first class, we’ll discuss the various characteristics and types of pro
 
 Write a 500 word essay on the difference between the lean/agile paradigm for product development and the traditional project management process.
 
-## Unit 2 - Introduction to Agile Software Development
+## Unit 2. Getting to Know Your Users
+
+This class will introduce the idea of a scientific approach to product development. We’ll focus on how to make sure we build products customers love, starting with how to frame hypotheses and perform user research.
+
+### Background study:
+
+* [Won’t be Fooled Again](https://www.youtube.com/watch?v=5JF_QMIMBls) by Jeff Patton
+
+### [Slides](http://www.slideshare.net/humblej/user-research-64091404)
+
+### Further reading
+
+* _Lean UX_ by Jeff Gothelf with Josh Seiden
+* [Usability.gov](http://usability.gov/)
+* _Badass: Making Users Awesome_ by Kathy Sierra
+* _Agile User Experience Design_ by Lindsay Ratcliffe and Marc McNeill
+
+### Assignment
+
+For this assignment, you'll need to come up with an idea for a business. This could be for a project that you're currently working on, or you can make up a business idea of your own.
+
+For this assignment, complete the following exercises by filling out [this template](https://docs.google.com/document/d/1IoTYB3YJ_XnCvHsAeCse3O-kvDUyJ9IaV4u6pGbMum8/edit).
+
+1. Write a brief problem statement for your product (<100 words).
+2. Create a proto-persona for your product.
+3. Complete an [empathy map](https://www.dropbox.com/s/o505hvexcgucr9u/empathy-map-poster.pdf?dl=0) for your proto-persona (the linked canvas has more detail than the template).
+4. Complete a [value proposition canvas](https://www.dropbox.com/s/jw11z9d98jw220k/value_proposition_canvas.pdf?dl=0) for your persona (the linked canvas has more detail than the template).
+4. Complete a [business model canvas](https://www.dropbox.com/s/v3s3j4huwr4to3q/business_model_canvas.pdf?dl=0) for your product (the linked canvas has more detail than the template).
+5. Fill out a Business Assumptions Worksheet for your product.
+
+## Unit 3 - An Experimental Approach to Product Development
+
+This class will present hypothesis-driven development, the cutting-edge paradigm for evolving validated products. We’ll dive into how to frame hypotheses, design experiments, and use A/B testing to gather data to prove or disprove our ideas.
+
+### Background study:
+
+* [Platform Rant](https://plus.google.com/+RipRowan/posts/eVeouesvaVX) by Steve Yegge
+* [Early Amazon Shopping Cart](http://glinden.blogspot.com/2006/04/early-amazon-shopping-cart.html) by Greg Linden
+* [A/B Testing and Continuous Delivery](http://www.infoq.com/presentations/ab-testing-continuous-delivery) by Nellwyn Thomas
+
+### [Slides](http://www.slideshare.net/humblej/experimental-product-development)
+
+### Further reading
+
+* [Resources on Set-Based Design](http://xp123.com/articles/resources-on-set-based-design/)
+* _Impact Mapping_ by Gojko Adzic
+* _Lean UX_ by Jeff Gothelf with Josh Seiden
+* _Lean Enterprise_ by Jez Humble, Joanne Molesky, and Barry O'Reilly
+
+### Assignment
+
+Design an experiment to validate one of the key product hypotheses for your group project, using the template from today's class. Describe your experiment, including:
+
+* What do you expect the results to be?
+* What result will confirm your hypothesis?
+* What result will disprove your hypothesis?
+* How soon can we get the result?
+
+## Unit 4 - Planning Releases
+
+Despite rumours to the contrary, there are planning activities in the agile model. In this class we’ll discuss how to plan releases, and present story mapping and impact mapping as effective tools for design, ideation and planning.
+
+### Background study
+
+* [Agile Product Ownership in a Nutshell](http://blog.crisp.se/2012/10/25/henrikkniberg/agile-product-ownership-in-a-nutshell) by Henrik Kniberg
+* [User Story Mapping by Jeff Patton](http://jpattonassociates.com/the-new-backlog/) by Jeff Patton
+
+### [Slides](http://www.slideshare.net/humblej/release-planning-64091364)
+
+### Further reading
+
+* [Dear Customer: The Truth about IT Projects](http://www.agileconnection.com/article/dear-customer-truth-about-it-projects) by Allan Kelly
+* [Estimation is Evil](https://pragprog.com/magazines/2013-02/estimation-is-evil) by Ron Jeffries
+* _Waltzing with Bears_ by Tom DeMarco and Timothy Lister
+* _User Story Mapping_ by Jeff Patton
+
+### Assignment
+
+Create a user story map for one of the personas you created in your Unit 2 assignment. If you were excused from that assignment, feel free to use a project you're working on this semester and create a persona to use in this assignment.
+
+Identify *three* activities the chosen persona might want to carry out with your software, and map out the activities, backbone, and tasks like we discussed this week in class. Expect to spend about an hour on this, not including reading the resources. You may use a tool of your choice to turn this in, such as turning in a PDF document or a URL to
+an online tool such as [stickies.io](http://stickies.io) or [Trello](https://trello.com) (If using Trello, please add the course TA to your board.)
+
+Please leverage the following resources (in addition to the readings for this week) in creating your user story map:
+
+* Jeff Patton's [quick reference](http://jpattonassociates.com/wp-content/uploads/2015/03/story_mapping.pdf)---start with Page 2. In this activity, I'm expecting you to carry out the first 3 steps listed on page 2: Frame, Map the big picture, Explore. I'm not expecting you to slice out releases or prepare a development strategy.
+* [Chapter 1 of Jeff Patton's book](http://cdn.oreillystatic.com/oreilly/booksamplers/9781491904909_sampler.pdf) has an example of a story mapping exercise.
+* Here's [another article](http://winnipegagilist.blogspot.com/2012/03/how-to-create-user-story-map.html) that you might find useful.
+
+## Unit 5 - Introduction to Agile Software Development
 
 In this class we’ll present the concepts at the heart of the agile approach to software development, using Scrum and Kanban as our guides. We’ll learn about iterative and incremental development, the various activities that need to be performed in the iterative model, and the key roles found in agile teams.
 
@@ -53,95 +142,6 @@ Optional supplementary reading for assignment:
 * [The WordCount simulation](http://testobsessed.com/2008/11/the-wordcount-simulation/)
 * [WordCount: a Happy Surprise](http://testobsessed.com/2010/09/wordcount-a-happy-surprise/)
 * [Agile Adjustments: a WordCount story](http://testobsessed.com/2012/01/agile-adjustments-a-wordcount-story/)
-
-## Unit 3. Getting to Know Your Users
-
-This class will introduce the idea of a scientific approach to product development. We’ll focus on how to make sure we build products customers love, starting with how to frame hypotheses and perform user research.
-
-### Background study:
-
-* [Won’t be Fooled Again](https://www.youtube.com/watch?v=5JF_QMIMBls) by Jeff Patton
-
-### [Slides](http://www.slideshare.net/humblej/user-research-64091404)
-
-### Further reading
-
-* _Lean UX_ by Jeff Gothelf with Josh Seiden
-* [Usability.gov](http://usability.gov/)
-* _Badass: Making Users Awesome_ by Kathy Sierra
-* _Agile User Experience Design_ by Lindsay Ratcliffe and Marc McNeill
-
-### Assignment
-
-For this assignment, you'll need to come up with an idea for a business. This could be for a project that you're currently working on, or you can make up a business idea of your own.
-
-For this assignment, complete the following exercises by filling out [this template](https://docs.google.com/document/d/1IoTYB3YJ_XnCvHsAeCse3O-kvDUyJ9IaV4u6pGbMum8/edit).
-
-1. Write a brief problem statement for your product (<100 words).
-2. Create a proto-persona for your product.
-3. Complete an [empathy map](https://www.dropbox.com/s/o505hvexcgucr9u/empathy-map-poster.pdf?dl=0) for your proto-persona (the linked canvas has more detail than the template).
-4. Complete a [value proposition canvas](https://www.dropbox.com/s/jw11z9d98jw220k/value_proposition_canvas.pdf?dl=0) for your persona (the linked canvas has more detail than the template).
-4. Complete a [business model canvas](https://www.dropbox.com/s/v3s3j4huwr4to3q/business_model_canvas.pdf?dl=0) for your product (the linked canvas has more detail than the template).
-5. Fill out a Business Assumptions Worksheet for your product.
-
-## Unit 4 - An Experimental Approach to Product Development
-
-This class will present hypothesis-driven development, the cutting-edge paradigm for evolving validated products. We’ll dive into how to frame hypotheses, design experiments, and use A/B testing to gather data to prove or disprove our ideas.
-
-### Background study:
-
-* [Platform Rant](https://plus.google.com/+RipRowan/posts/eVeouesvaVX) by Steve Yegge
-* [Early Amazon Shopping Cart](http://glinden.blogspot.com/2006/04/early-amazon-shopping-cart.html) by Greg Linden
-* [A/B Testing and Continuous Delivery](http://www.infoq.com/presentations/ab-testing-continuous-delivery) by Nellwyn Thomas
-
-### [Slides](http://www.slideshare.net/humblej/experimental-product-development)
-
-### Further reading
-
-* [Resources on Set-Based Design](http://xp123.com/articles/resources-on-set-based-design/)
-* _Impact Mapping_ by Gojko Adzic
-* _Lean UX_ by Jeff Gothelf with Josh Seiden
-* _Lean Enterprise_ by Jez Humble, Joanne Molesky, and Barry O'Reilly
-
-### Assignment
-
-Design an experiment to validate one of the key product hypotheses for your group project, using the template from today's class. Describe your experiment, including:
-
-* What do you expect the results to be?
-* What result will confirm your hypothesis?
-* What result will disprove your hypothesis?
-* How soon can we get the result?
-
-## Unit 5 - Planning Releases
-
-Despite rumours to the contrary, there are planning activities in the agile model. In this class we’ll discuss how to plan releases, and present story mapping and impact mapping as effective tools for design, ideation and planning.
-
-### Background study
-
-* [Agile Product Ownership in a Nutshell](http://blog.crisp.se/2012/10/25/henrikkniberg/agile-product-ownership-in-a-nutshell) by Henrik Kniberg
-* [User Story Mapping by Jeff Patton](http://jpattonassociates.com/the-new-backlog/) by Jeff Patton
-
-### [Slides](http://www.slideshare.net/humblej/release-planning-64091364)
-
-### Further reading
-
-* [Dear Customer: The Truth about IT Projects](http://www.agileconnection.com/article/dear-customer-truth-about-it-projects) by Allan Kelly
-* [Estimation is Evil](https://pragprog.com/magazines/2013-02/estimation-is-evil) by Ron Jeffries
-* _Waltzing with Bears_ by Tom DeMarco and Timothy Lister
-* _User Story Mapping_ by Jeff Patton
-
-### Assignment
-
-Create a user story map for one of the personas you created in your Unit 3 assignment. If you were excused from that assignment, feel free to use a project you're working on this semester and create a persona to use in this assignment.
-
-Identify *three* activities the chosen persona might want to carry out with your software, and map out the activities, backbone, and tasks like we discussed this week in class. Expect to spend about an hour on this, not including reading the resources. You may use a tool of your choice to turn this in, such as turning in a PDF document or a URL to
-an online tool such as [stickies.io](http://stickies.io) or [Trello](https://trello.com) (If using Trello, please add the course TA to your board.)
-
-Please leverage the following resources (in addition to the readings for this week) in creating your user story map:
-
-* Jeff Patton's [quick reference](http://jpattonassociates.com/wp-content/uploads/2015/03/story_mapping.pdf)---start with Page 2. In this activity, I'm expecting you to carry out the first 3 steps listed on page 2: Frame, Map the big picture, Explore. I'm not expecting you to slice out releases or prepare a development strategy.
-* [Chapter 1 of Jeff Patton's book](http://cdn.oreillystatic.com/oreilly/booksamplers/9781491904909_sampler.pdf) has an example of a story mapping exercise.
-* Here's [another article](http://winnipegagilist.blogspot.com/2012/03/how-to-create-user-story-map.html) that you might find useful.
 
 ## Unit 6. Economic Frameworks for Portfolio and Product Management.
 

@@ -62,3 +62,5 @@ Presentations must follow the same guidelines (above) as the topic presentations
 
 * A completed and up-to-date business model canvas, value proposition canvas, proto-personas, and empathy maps (4 points);
 * Documentation for each experiment, including hypothesis, expected result, description of experiment, results, and what you decided based on the results (2 points per experiment).
+
+**About halfway through the semester (date TBC), your business model canvas, value proposition canvas, proto-personas, empathy maps, and the documentation for your first experiment must be submitted. You will receive 6 points based on this submission. (Note: you are free to change your business model following this submission if your experiment shows the business model will not work.)**

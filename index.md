@@ -2,7 +2,7 @@
 layout: default
 ---
 
-This is the course website for [Info 290M Lean/Agile Product Management](http://www.ischool.berkeley.edu/courses/i290m-lapm), a three unit graduate class taught by [Jez Humble](https://continuousdelivery.com/about/talks/) at the UC Berkeley [School of Information](http://www.ischool.berkeley.edu/). Everything on this website is licensed [Creative Commons Attribution-Share Alike](https://creativecommons.org/licenses/by-sa/3.0/us/).
+This is the course website for [Info 290M Lean/Agile Product Management](http://www.ischool.berkeley.edu/courses/i290m-lapm), a three unit graduate class taught by [Jez Humble](https://continuousdelivery.com/about/talks/) at the UC Berkeley [School of Information](http://www.ischool.berkeley.edu/). Everything on this website is licensed [Creative Commons Attribution-Share Alike](https://creativecommons.org/licenses/by-sa/3.0/us/) unless otherwise noted.
 
 The course is designed to give participants a practical overview of the modern lean/agile product management paradigm based on contemporary industry practice. We cover the complete lifecycle of product management, from discovering your customers and users through to building high performance teams and delivering complex digital products. We'll take an experimental approach throughout, showing how to minimize investment and output while maximizing the information we discover in order to support effective decision-making. During the course, we'll show how to apply the theory through hands-on collaborative problem-solving activities. There will also be guest lectures from industry experts.
 
@@ -22,9 +22,7 @@ The [syllabus](/syllabus.html), supplemented by guest lectures, covers the follo
 * How to grow high performance teams
 * Release planning
 * Process improvement
-* Innovation accounting
 * Product marketing
-* Venture capital
 
 ## Guest lectures
 
