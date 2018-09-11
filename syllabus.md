@@ -52,7 +52,7 @@ For this assignment, complete the following exercises by filling out [this templ
 4. Complete a [business model canvas](https://www.dropbox.com/s/v3s3j4huwr4to3q/business_model_canvas.pdf?dl=0) for your product (the linked canvas has more detail than the template).
 5. Fill out a Business Assumptions Worksheet for your product.
 
-## Unit 5 - Introduction to Agile Software Development
+## Unit 3 - Introduction to Agile Software Development
 
 In this class we’ll present the concepts at the heart of the agile approach to software development, using Scrum and Kanban as our guides. We’ll learn about iterative and incremental development, the various activities that need to be performed in the iterative model, and the key roles found in agile teams.
 
