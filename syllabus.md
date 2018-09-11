@@ -35,9 +35,11 @@ This class will introduce the idea of a scientific approach to product developme
 ### Further reading
 
 * _Lean UX_ by Jeff Gothelf with Josh Seiden
-* [Usability.gov](http://usability.gov/)
+* _Practical Empathy_ by Indi Young
 * _Badass: Making Users Awesome_ by Kathy Sierra
 * _Agile User Experience Design_ by Lindsay Ratcliffe and Marc McNeill
+* _Business Model Generation_ and _Value Proposition Design_ by Alex Osterwalder _et al_
+* [18F Method Cards for Discovery](https://methods.18f.gov/discover/)
 
 ### Assignment
 
