@@ -31,7 +31,7 @@ rest of the class.
 
 Presentation Guidelines:
 
-* The group will have 25 minutes for each presentation. 
+* The group will have 25 minutes for each presentation. You should allocate 20m for your material and 5m for questions and discussion.
 * All group members must speak or have a role to play during the presentation.
 * Content of the presentation must sufficiently address what is specified by the presentation prompt, but is not limited to it. Supplementary content that will help craft your argument is welcome, just ensure that your presentation falls within the 25-minute limit.
 * Beyond the use of slide decks, you may leverage other techniques or tools to enhance student learning. The use of videos, class exercises, re-enactments, student volunteers, user interviews, surveys or other forms of media that can help strengthen your presentation is encouraged.
