@@ -96,18 +96,18 @@ This class will present hypothesis-driven development, the cutting-edge paradigm
 * [Early Amazon Shopping Cart](http://glinden.blogspot.com/2006/04/early-amazon-shopping-cart.html) by Greg Linden
 * [A/B Testing and Continuous Delivery](http://www.infoq.com/presentations/ab-testing-continuous-delivery) by Nellwyn Thomas
 
-### [Slides](http://www.slideshare.net/humblej/experimental-product-development)
+### [Slides](https://speakerdeck.com/jezhumbleucb/unit-4-an-experimental-approach-to-product-development)
 
 ### Further reading
 
-* [Resources on Set-Based Design](http://xp123.com/articles/resources-on-set-based-design/)
+* [How to Write a Good PRD](https://svpg.com/assets/Files/goodprd.pdf) by Marty Cagan
 * _Impact Mapping_ by Gojko Adzic
 * _Lean UX_ by Jeff Gothelf with Josh Seiden
 * _Lean Enterprise_ by Jez Humble, Joanne Molesky, and Barry O'Reilly
 
 ### Assignment
 
-Design an experiment to validate one of the key product hypotheses for your group project, using the template from today's class. Describe your experiment, including:
+Design an experiment to validate one of the key product hypotheses from your Week 2 assignment, using the template from today's class. Describe your experiment, including:
 
 * What do you expect the results to be?
 * What result will confirm your hypothesis?
@@ -122,6 +122,7 @@ Despite rumours to the contrary, there are planning activities in the agile mode
 
 * [Agile Product Ownership in a Nutshell](http://blog.crisp.se/2012/10/25/henrikkniberg/agile-product-ownership-in-a-nutshell) by Henrik Kniberg
 * [User Story Mapping by Jeff Patton](http://jpattonassociates.com/the-new-backlog/) by Jeff Patton
+* []
 
 ### [Slides](http://www.slideshare.net/humblej/release-planning-64091364)
 
