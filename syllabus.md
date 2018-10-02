@@ -123,7 +123,7 @@ Despite rumours to the contrary, there are planning activities in the agile mode
 * [Agile Product Ownership in a Nutshell](http://blog.crisp.se/2012/10/25/henrikkniberg/agile-product-ownership-in-a-nutshell) by Henrik Kniberg
 * [User Story Mapping by Jeff Patton](http://jpattonassociates.com/the-new-backlog/) by Jeff Patton
 
-### [Slides](http://www.slideshare.net/humblej/release-planning-64091364)
+### [Slides](https://speakerdeck.com/jezhumbleucb/unit-5-planning-releases)
 
 ### Further reading
 
