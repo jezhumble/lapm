@@ -54,7 +54,7 @@ The presentations will be assessed according to the following criteria:
 
 As part of your group, you will build a business and test multiple hypotheses to validate your business model. In week 2, everybody in the class will come up with their own business idea. Once the week 2 assignment is completed, students should come together in their groups and decide on a business idea as a group (perhaps using the individual business ideas as a starting point).
 
-In week 3, we discuss how to take an experimental approach to product development, and how to design and test product hypotheses. Following week 3's assignment, you will design and test product hypotheses for your business idea and then test them with real people outside your class, and to evolve your business idea (and potentially pivot) based on what you learn.
+In week 4, we discuss how to take an experimental approach to product development, and how to design and test product hypotheses. Following week 4's assignment, you will design and test product hypotheses for your business idea and then test them with real people outside your class, and to evolve your business idea (and potentially pivot) based on what you learn.
 
 In your final presentation, you'll present the your business model and product canvases, and describe the experiments you performed, what you learned, and the decisions you made as a result. Teams must describe at least three experiments in order to have a chance to achieve the highest grade.
 
@@ -63,4 +63,4 @@ Presentations must follow the same guidelines (above) as the topic presentations
 * A completed and up-to-date business model canvas, value proposition canvas, proto-personas, and empathy maps (4 points);
 * Documentation for each experiment, including hypothesis, expected result, description of experiment, results, and what you decided based on the results (2 points per experiment).
 
-**About halfway through the semester (date TBC), your business model canvas, value proposition canvas, proto-personas, empathy maps, and the documentation for your first experiment must be submitted. You will receive 6 points based on this submission. (Note: you are free to change your business model following this submission if your experiment shows the business model will not work.)**
+**About halfway through the semester (the date will be announced on bCourses), your business model canvas, value proposition canvas, proto-personas, empathy maps, and the documentation for your first experiment must be submitted. You will receive 6 points based on this submission. (Note: you are free to change your business model following this submission if your experiment shows the business model will not work.)**
