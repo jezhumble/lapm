@@ -153,7 +153,7 @@ This class presents the idea of using economic frameworks for portfolio and proj
 
 * [Black Swan Farming using Cost of Delay](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6612885) by Joshua J Arnold and Özlem Yüce
 
-### [Slides](http://www.slideshare.net/humblej/economic-frameworks)
+### [Slides](https://speakerdeck.com/jezhumbleucb/economic-frameworks-for-portfolio-and-product-management)
 
 ### Further reading
 
@@ -177,14 +177,14 @@ This class will discuss how to build effective product development teams. We’l
 * [How to Change a Culture: Lessons from NUMMI](http://sloanreview.mit.edu/article/how-to-change-a-culture-lessons-from-nummi/) by John Shook
 * [The Power of an Agile Mindset](https://www.infoq.com/presentations/agile-mindset) by Linda Rising
 
-### [Slides](http://www.slideshare.net/humblej/managing-teams-64091393)
+### [Slides](https://speakerdeck.com/jezhumbleucb/unit-7-managing-teams)
 
 ### Further reading
 
 * [The Talent Myth](http://gladwell.com/the-talent-myth/) by Malcolm Gladwell
 * _Mindset_ by Carol Dweck
 * _Drive_ by Daniel Pink
-* [Fourteen Points for Management](https://deming.org/theman/theories/fourteenpoints) by W. Edwards Deming
+* [Fourteen Points for Management](https://deming.org/management-system/fourteenpoints) by W. Edwards Deming
 * [One on Ones template](https://www.manager-tools.com/system/files/documents/docs/Manager-Tools_One_on_One_Basics.pdf) by Manager Tools
 * _Inspired_ by Marty Cagan
 * _Out of the Crisis_ by W. Edwards Deming
@@ -193,7 +193,7 @@ This class will discuss how to build effective product development teams. We’l
 
 ### Assignment
 
-Choose one of [Deming's 14 points for management](https://deming.org/management-system/fourteenpoints), and write a 500 word short essay on its implications for product management.
+Choose one of [Deming's 14 points for management](https://deming.org/explore/fourteen-points), and write a 500 word short essay on its implications for product management.
 
 ## Unit 8 - Managing Work
 

@@ -19,6 +19,7 @@ The [syllabus](/syllabus.html), supplemented by guest lectures, covers the follo
 * Agile software development
 * Lean startup
 * The experimental paradigm of product development
+* Innovation accounting
 * How to grow high performance teams
 * Release planning
 * Process improvement
@@ -33,6 +34,7 @@ Lecturers from previous years have included:
 * [Andrew Malcolm](https://www.linkedin.com/in/malcolmandrew) with a product marketing case study.
 * [Hima Chintalapati](https://www.linkedin.com/in/hchintalapati) on pricing.
 * [Leah Bannon](http://leah.io/) and [Michael Torres](https://www.linkedin.com/in/mtorres253) on product management in government.
+* [David Binetti](http://www.dbinetti.com/) on innovation accounting.
 
 # Pedagogy
 
