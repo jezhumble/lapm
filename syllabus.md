@@ -184,7 +184,7 @@ This class will discuss how to build effective product development teams. We’l
 * [The Talent Myth](http://gladwell.com/the-talent-myth/) by Malcolm Gladwell
 * _Mindset_ by Carol Dweck
 * _Drive_ by Daniel Pink
-* [Fourteen Points for Management](https://deming.org/management-system/fourteenpoints) by W. Edwards Deming
+* [Fourteen Points for Management](https://deming.org/explore/fourteen-points) by W. Edwards Deming
 * [One on Ones template](https://www.manager-tools.com/system/files/documents/docs/Manager-Tools_One_on_One_Basics.pdf) by Manager Tools
 * _Inspired_ by Marty Cagan
 * _Out of the Crisis_ by W. Edwards Deming

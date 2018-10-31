@@ -46,6 +46,7 @@ There are no required books for this course: the supplementary material will mai
 
 * _Inspired: How To Create Products Customers Love_ by Marty Cagan
 * _Badass: Making Users Awesome_ by Kathy Sierra
+* _Escaping the Build Trap: How Effective Product Management Creates Real Value_ by Melissa Perri
 * _Lean UX: Applying Lean Principles to Improve User Experience_ by Jeff Gothelf with Josh Seiden
 * _The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses_ by Eric Ries
 * _Running Lean: Iterate from Plan A to a Plan That Works_ by Ash Maurya
