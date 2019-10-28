@@ -10,7 +10,7 @@ Continuous assessment will be used for this course---there is no final exam. Gra
 * 15% for attendance;
 * 20% for one 25 minute topic presentation. Group presentations provide an opportunity for the class to be exposed to real-world examples or in-depth explorations of techniques related to the topic being discussed for the week;
 * 30% for your 25 minute final project group presentation and supporting material;
-* 35% for a set of weekly assignments as described in the [syllabus](/syllabus.html) which take the form of either exercises or short essays. These are retrospective and will reflect on the lessons learned from the previous class.
+* 35% for a set of weekly assignments as described in the [syllabus](/syllabus.html) which take the form of exercises, tests, or essays. These are retrospective and will reflect on the lessons learned from the previous class.
 
 # Presentations
 

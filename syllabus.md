@@ -20,7 +20,7 @@ In our first class, we’ll discuss the various characteristics and types of pro
 
 ### Assignment
 
-Write a 500 word essay on the difference between the lean/agile paradigm for product development and the traditional project management process.
+There will be a quiz to complete on this unit's material.
 
 ## Unit 2. Getting to Know Your Users
 
@@ -69,7 +69,7 @@ Elisabeth Hendrickson's [WordCount simulation](http://agilistry.com/downloads/Wo
 
 ### Assignment
 
-Write a 500 word essay reflecting on your experience with the WordCount exercise in class, and how agile development concepts were able to improve your team's ability to release features and satisfy customers.
+Write a 800 word essay reflecting on your experience with the WordCount exercise in class, and how agile development concepts were able to improve your team's ability to release features and satisfy customers.
 
 Some guide questions that can help frame your response (no need to respond to all):
 
@@ -92,7 +92,7 @@ This class will present hypothesis-driven development, the cutting-edge paradigm
 
 ### Background study:
 
-* [Platform Rant](https://plus.google.com/+RipRowan/posts/eVeouesvaVX) by Steve Yegge
+* [Platform Rant](https://gist.github.com/jezhumble/a8b3cbb4ea20139582fa8ffc9d791fb2) by Steve Yegge
 * [Early Amazon Shopping Cart](http://glinden.blogspot.com/2006/04/early-amazon-shopping-cart.html) by Greg Linden
 * [A/B Testing and Continuous Delivery](http://www.infoq.com/presentations/ab-testing-continuous-delivery) by Nellwyn Thomas
 
@@ -181,7 +181,7 @@ This class will discuss how to build effective product development teams. We’l
 
 ### Further reading
 
-* [The Talent Myth](http://gladwell.com/the-talent-myth/) by Malcolm Gladwell
+* [The Talent Myth](https://www.newyorker.com/magazine/2002/07/22/the-talent-myth) by Malcolm Gladwell
 * _Mindset_ by Carol Dweck
 * _Drive_ by Daniel Pink
 * [Fourteen Points for Management](https://deming.org/explore/fourteen-points) by W. Edwards Deming
@@ -193,7 +193,7 @@ This class will discuss how to build effective product development teams. We’l
 
 ### Assignment
 
-Choose one of [Deming's 14 points for management](https://deming.org/explore/fourteen-points), and write a 500 word short essay on its implications for product management.
+Choose one of [Deming's 14 points for management](https://deming.org/explore/fourteen-points), and write a 800 word essay on its implications for product management.
 
 ## Unit 8 - Managing Work
 
@@ -213,7 +213,7 @@ Scrum and Kanban are frameworks designed to help manage work and perform process
 
 ### Assignment
 
-Choose a principle from the Agile Manifesto, and a practice from one of the agile frameworks we've studied (Scrum, Kanban, and XP) and write a 500 word short essay on how the practice helps achieve the principle. Make sure you discuss the contexts in which the practice can work best, as well as a failure mode.
+There will be a quiz on this unit's material.
 
 ## Unit 9 - Case Study: Continuous Improvement
 
@@ -240,8 +240,4 @@ At heart, Lean is about working to create resilient, adaptive organizations. Cru
 
 ### Assignment
 
-Write a 500 word short essay. Choose *one* of the following titles:
-
-* What factors led to the success of the HP FutureSmart team's rearchitecture program? OR
-* HP FutureSmart rearchitecture: Kaizen or Kaikaku? OR
-* What is required to successfully implement continuous improvement?
+There will be a quiz on the material for this unit.
