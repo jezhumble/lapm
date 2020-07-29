@@ -3,6 +3,10 @@ layout: default
 title: Syllabus
 ---
 
+## WARNING: this is the syllabus for the NON-REMOTE version of the class.
+
+See the [syllabus for the remote version of the class](syllabus-remote.html) (Fall 2020).
+
 # Syllabus
 
 LAPM is a one-semester course, taught in the form of 12-13 three-hour weekly classes, of which typically 2-3 are guest lectures. Nine of the ten remaining classes are detailed below. The final class is for final project presentations. 

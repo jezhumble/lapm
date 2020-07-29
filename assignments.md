@@ -3,6 +3,10 @@ layout: default
 title: Assignments
 ---
 
+## WARNING: this is the assignments list for the NON-REMOTE version of the class.
+
+See the [assignments and grading for the remote version of the class](assignments-remote.html) (Fall 2020).
+
 # Assignments and Grading
 
 Continuous assessment will be used for this course---there is no final exam. Grades will be allocated as follows:

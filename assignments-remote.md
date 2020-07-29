@@ -9,8 +9,8 @@ nav: True
 Continuous assessment will be used for this course---there is no final exam. Grades will be allocated as follows:
 
 * 20% in total for your group homework assignments;
-* 30% for your 25 minute final project group presentation and supporting material;
-* 40% for a set of weekly homework assignments as described in the [syllabus](/syllabus.html) which take the form of exercises, tests, or essays. These are retrospective and will reflect on the lessons learned from the previous class;
+* 30% for your 25 minute final project group presentation (20%) and supporting material (10%), see below;
+* 40% for a set of weekly homework assignments as described in the [syllabus](/syllabus-remote.html) which take the form of exercises, tests, or essays. These are retrospective and will reflect on the lessons learned from the previous class;
 * 10% for a 1,000 word long essay.
 
 # Group work
@@ -42,7 +42,7 @@ Presentation Guidelines:
 * All group members must speak or have a role to play during the presentation.
 * Slide decks must also be submitted too.
 
-The presentations will be assessed according to the following criteria:
+The presentation, representing 20% of your final grade, will be assessed according to the following criteria:
 
 * Content (5 pts) - Did the presentation have valuable material that
   was relevant and beneficial to the class? Was it able to
