@@ -12,14 +12,14 @@ Special thanks to [Carlos Miguel Lasa](https://www.linkedin.com/in/cmlasa) for h
 
 Due to COVID-19, this class will be delivered entirely remote in Fall 2020. The remote version of the course will look like this:
 
-* The core content will consist of 8 core lectures and 4 guest lectures, mainly/all prerecorded and available on YouTube.
-* The class will meet online once per week on Mondays at 1-2pm Pacific time for open discussion, guest lectures, and office hours, except for the final class on November 30 which will be 1pm-4pm. Open discussion sessions and guest lectures will be recorded and available for the class. Please bring questions! Attendance is strongly encouraged but is not mandatory, except for the final class.
+* The core content will consist of 8 core lectures, prerecorded and available on YouTube, and five guest lectures which will happen during class time.
+* The class will meet online once per week on Mondays at 2pm-3:30pm Pacific time for open discussion, guest lectures, and office hours, except for the final class on November 30 which will be 2pm-5pm. Open discussion sessions and guest lectures will be recorded and available for the class. Please bring questions! Attendance is strongly encouraged but is not mandatory, except for the final class.
 * 50% of your final grade will be based on a series of open-book short assessments and a long essay.
 * The other 50% of your final grade will be based on project work with a group you will be assigned to for your final project.
 
 # Course overview
 
-The [syllabus](/syllabus-remote.html), supplemented by guest lectures, covers the following topics:
+The [syllabus](http://bit.ly/lapm-2020-syllabus), supplemented by guest lectures, covers the following topics:
 
 * The history of project & product management
 * The product lifecycle
@@ -28,11 +28,9 @@ The [syllabus](/syllabus-remote.html), supplemented by guest lectures, covers th
 * Agile software development
 * Lean startup
 * The experimental paradigm of product development
-* Innovation accounting
 * How to grow high performance teams
 * Release planning
 * Process improvement
-* Product marketing
 
 ## Guest lectures
 
