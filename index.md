@@ -4,22 +4,15 @@ layout: default
 
 This is the course website for [Info 290M Lean/Agile Product Management](http://www.ischool.berkeley.edu/courses/i290m-lapm), a three unit graduate class taught by [Jez Humble](https://continuousdelivery.com/about/talks/) at the UC Berkeley [School of Information](http://www.ischool.berkeley.edu/). Everything on this website is licensed [Creative Commons Attribution-Share Alike](https://creativecommons.org/licenses/by-sa/3.0/us/) unless otherwise noted.
 
+_If you're looking for the public version of this class, including recordings of the lectures, you can find this at [https://lectures.leanagile.pm/](https://lectures.leanagile.pm)_
+
 The course is designed to give participants a practical overview of the modern lean/agile product management paradigm based on contemporary industry practice. We cover the complete lifecycle of product management, from discovering your customers and users through to building high performance teams and delivering complex digital products. We'll take an experimental approach throughout, showing how to minimize investment and output while maximizing the information we discover in order to support effective decision-making. During the course, we'll show how to apply the theory through hands-on collaborative problem-solving activities. There will also be guest lectures from industry experts.
 
 Special thanks to [Carlos Miguel Lasa](https://www.linkedin.com/in/cmlasa) for his help designing and delivering this course.
 
-# Fall 2020: Online Edition
-
-Due to COVID-19, this class will be delivered entirely remote in Fall 2020. The remote version of the course will look like this:
-
-* The core content will consist of 8 core lectures, prerecorded and available on YouTube, and five guest lectures which will happen during class time.
-* The class will meet online once per week on Mondays at 2pm-3:30pm Pacific time for open discussion, guest lectures, and office hours, except for the final class on November 30 which will be 2pm-5pm. Open discussion sessions and guest lectures will be recorded and available for the class. Please bring questions! Attendance is strongly encouraged but is not mandatory, except for the final class.
-* 50% of your final grade will be based on a series of open-book short assessments and a long essay.
-* The other 50% of your final grade will be based on project work with a group you will be assigned to for your final project.
-
 # Course overview
 
-The [syllabus](http://bit.ly/lapm-2020-syllabus), supplemented by guest lectures, covers the following topics:
+The [syllabus](syllabus.html), supplemented by guest lectures, covers the following topics:
 
 * The history of project & product management
 * The product lifecycle
@@ -45,7 +38,7 @@ Lecturers from previous years have included:
 
 # Pedagogy
 
-Contemporary research into education tells us that the most effective way for students to learn is through doing, and by synthesizing material themselves in both an individual and group setting. Thus the majority of the material is learned through group and independent study through [assignments](/assignments-remote.html) and in-class exercises (but note group exercises in Fall 2020 will be done as group assignments), including case studies. There is also traditional lecture-style teaching, but this is designed to be interactive, and students are strongly encouraged to ask questions and engage with the material - although again in Fall 2020 due to the use of pre-recorded material this will happen in discussion sessions. Final [grades](/assignments-remote.html) are determined through continuous assessment, and there is no final exam.
+Contemporary research into education tells us that the most effective way for students to learn is through doing, and by synthesizing material themselves in both an individual and group setting. Thus the majority of the material is learned through group and independent study through [assignments](assignments.html) and in-class exercises (but note group exercises in Fall 2020 will be done as group assignments), including case studies. There is also traditional lecture-style teaching, but this is designed to be interactive, and students are strongly encouraged to ask questions and engage with the material - although again in Fall 2020 due to the use of pre-recorded material this will happen in discussion sessions. Final [grades](assignments.html) are determined through continuous assessment, and there is no final exam.
 
 # Reading List
 
