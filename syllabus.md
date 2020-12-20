@@ -7,6 +7,8 @@ title: Syllabus
 
 LAPM is a one-semester course, taught in the form of 12-13 three-hour weekly classes, of which typically 2-3 are guest lectures. Nine of the ten remaining classes are detailed below. The final class is for final project presentations. 
 
+_Note: this is the 2019 syllabus. It has been revised substantially for 2020, and this page is now out-of-date. You can find the 2020 syllabus [here](https://lectures.leanagile.pm)._
+
 ## Unit 1. Introduction to the Product Lifecycle.
 
 In our first class, we’ll discuss the various characteristics and types of products, paying particular attention to the product lifecycle. We’ll introduce the idea of a business model, and discuss the various risks that products might face in different parts of the product lifecycle. We’ll review a brief history of project and product management, and discuss the differences between the two.
